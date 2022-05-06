@@ -1,0 +1,19 @@
+.navbar {
+  display: flex;
+  background-color: silver;
+  text-align: left;
+}
+
+a {
+  text-decoration: none;
+  padding: 0.75rem;
+  color: inherit;
+}
+
+.navbar a:hover {
+  background-color: gray;
+}
+
+.flex-right {
+  margin-left: auto;
+}
